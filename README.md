@@ -17,7 +17,7 @@ This project includes all the codes used in the AI/ML Skill India Scholarship As
 
   
 ## 🚀 About Me 
-My name is Chhavik Kapoor and I am a Mechanical Engineering sophomore. I am also working as an AI/ML intern at Elite Techno Groups. I'm passionate about different technologies like AI, ML and Data Science.
+My name is Chhavik Kapoor and I am a Mechanical Engineering sophomore at Delhi Technological University. I am also working as an AI/ML intern at Elite Techno Groups. I'm passionate about different technologies like AI, ML and Data Science.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhavik-kapoor-4b5719184)
